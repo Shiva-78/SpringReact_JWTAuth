@@ -1,0 +1,16 @@
+com\springreactjwtauth\dto\JwtTokenResponse.class
+com\springreactjwtauth\dto\JwtTokenRequest.class
+com\springreactjwtauth\repository\UserRepository.class
+com\springreactjwtauth\utilities\JwtTokenUtil.class
+com\springreactjwtauth\controller\AuthenticationController.class
+com\springreactjwtauth\config\JwtUnAuthorizedResponseAuthenticationEntryPoint.class
+com\springreactjwtauth\SpringReactJWTAuthApplication.class
+com\springreactjwtauth\utilities\JwtUserDetails.class
+com\springreactjwtauth\config\AppConfig.class
+com\springreactjwtauth\controller\UserController.class
+com\springreactjwtauth\service\JwtUserDetailsService.class
+com\springreactjwtauth\config\JwtOncePerRequestFilter.class
+com\springreactjwtauth\controller\AuthenticationException.class
+com\springreactjwtauth\dto\UserDto.class
+com\springreactjwtauth\entities\RolesEntity.class
+com\springreactjwtauth\entities\UserEntity.class
